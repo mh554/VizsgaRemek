@@ -12,9 +12,9 @@
 
 ## Backend Terv
 
-### MYSql adatbázis (kapcsolt adatbázis táblávakkal)
-### Dokumentáció, tesztek és annak a dokumentációja (fejlesztői és felhasználói dokumentáció)
-### RESTful architektúrának megfelelő szerver és kliens oldali komponenseket egyaránt tartalmaz. 
+- MYSql adatbázis (kapcsolt adatbázis táblávakkal)
+- Dokumentáció, tesztek és annak a dokumentációja (fejlesztői és felhasználói dokumentáció)
+- RESTful architektúrának megfelelő szerver és kliens oldali komponenseket egyaránt tartalmaz. 
 
 Opcionális:
 -	php - MYSQL kommunikáció, tartalom szolgáltatás
