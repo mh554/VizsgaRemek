@@ -29,4 +29,5 @@ Egy webalkalmazás vagy asztali alkalmazás fejlesztése.
 
 ## Egyéb hasznos infók
 [Discord](https://discord.gg/rEadVdhNAd)<br>
+<br>
 http://ujdomainek.hu/turkalo/ <br>
