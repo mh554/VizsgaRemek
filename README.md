@@ -10,8 +10,8 @@ Egy webalkalmazás vagy asztali alkalmazás fejlesztése.
 - **Közösségi oldal**: Például Facebook, Instagram, stb. (Nem ajánlott, mert ebbe a felhasználók hozzák létre a tartalmat)
 - **C# alkalmazás**: Nehéz
 
-Infojegyzet oldala a vizsgáról [ITT](https://infojegyzet.hu/webszerkesztes/zarodolgozat/).
-Exel terv [ITT](https://blathy-my.sharepoint.com/:x:/g/personal/barta_marko_blathy_info/EVIGEpF27YpMotpUEDn05IUBRLOYAKuUG0YY1hPkIyic0A?e=vPkVbZ).
+Infojegyzet oldala a vizsgáról [ITT](https://infojegyzet.hu/webszerkesztes/zarodolgozat/) <br>
+Exel terv [ITT](https://blathy-my.sharepoint.com/:x:/g/personal/barta_marko_blathy_info/EVIGEpF27YpMotpUEDn05IUBRLOYAKuUG0YY1hPkIyic0A?e=vPkVbZ) <br>
 
 ## Backend Terv
 
@@ -28,5 +28,5 @@ Exel terv [ITT](https://blathy-my.sharepoint.com/:x:/g/personal/barta_marko_blat
 - Python Flask keretrendszer
 
 
-http://ujdomainek.hu/turkalo/
+http://ujdomainek.hu/turkalo/ <br>
 Discord [ITT](discord.gg/rEadVdhNAd)
