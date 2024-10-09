@@ -27,7 +27,6 @@ Exel terv [ITT](https://blathy-my.sharepoint.com/:x:/g/personal/barta_marko_blat
 - Python Django keretrendszer
 - Python Flask keretrendszer
 
-
+## Egyéb hasznos infók
+Discord [ITT](https://discord.gg/rEadVdhNAd)<br>
 http://ujdomainek.hu/turkalo/ <br>
-<br>
-Discord [ITT](https://discord.gg/rEadVdhNAd)
