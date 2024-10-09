@@ -2,8 +2,8 @@
 
 ## Project ötletek
 
-- Webshop(ruhabolt, használtautó, könyvesbolt, stb..)
-- Valamilyen szolgáltatást nyújtó oldal(elektronikai szervíz, vízvezeték-szerelő, stb..)
+- Webshop (ruhabolt, használtautó, könyvesbolt, stb..)
+- Valamilyen szolgáltatást nyújtó oldal (elektronikai szervíz, vízvezeték-szerelő, stb..)
 - információadó oldal? (pl.: wikipédia, gyakorikérdések, stb..)
 - Közösségi oldal (pl.: facebook, instagram, stb..)
 - C# alkalmazás (nehéz)
