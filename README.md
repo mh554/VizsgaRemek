@@ -2,6 +2,6 @@
 
 ## Project ötletek
 
-+ 1
-+ 2
-+ 3
+- Webshop(ruhabolt, használtautó)
+- Valamilyen szolgáltatást nyújtó oldal(elektronikai szervíz, vízvezeték-szerelő, stb..)
+- 
