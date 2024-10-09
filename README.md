@@ -8,4 +8,4 @@
 - Közösségi oldal (pl.: facebook, instagram, stb..)
 - C# alkalmazás (nehéz)
 
-[Exel terv]([https://pages.github.com/](https://blathy-my.sharepoint.com/:x:/g/personal/barta_marko_blathy_info/EVIGEpF27YpMotpUEDn05IUBRLOYAKuUG0YY1hPkIyic0A?e=vPkVbZ)).
+[Exel terv](https://blathy-my.sharepoint.com/:x:/g/personal/barta_marko_blathy_info/EVIGEpF27YpMotpUEDn05IUBRLOYAKuUG0YY1hPkIyic0A?e=vPkVbZ)
