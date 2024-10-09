@@ -30,4 +30,4 @@ Exel terv [ITT](https://blathy-my.sharepoint.com/:x:/g/personal/barta_marko_blat
 
 http://ujdomainek.hu/turkalo/ <br>
 <br>
-Discord [ITT](discord.gg/rEadVdhNAd)
+Discord [ITT](https://discord.gg/rEadVdhNAd)
