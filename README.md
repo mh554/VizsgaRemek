@@ -2,7 +2,7 @@
 
 ## Project ötletek
 
-- Webshop(ruhabolt, használtautó)
+- Webshop(ruhabolt, használtautó, stb..)
 - Valamilyen szolgáltatást nyújtó oldal(elektronikai szervíz, vízvezeték-szerelő, stb..)
 - információadó oldal? (pl.: wikipédia, gyakorikérdések, stb..)
 - Közösségi oldal (pl.: facebook, instagram, stb..)
