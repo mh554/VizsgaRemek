@@ -21,6 +21,7 @@ Nov. 11.: Project neve, 10 mondatos leírás, Exel? látványterv, adatbázister
 - MySQL adatbázis (kapcsolt adatbázis táblákkal)
 - Dokumentáció, tesztek és annak a dokumentációja (fejlesztői és felhasználói dokumentáció)
 - RESTful architektúrának megfelelő szerver és kliens oldali komponenseket egyaránt tartalmaz.
+- Vue Js
 
 ### Opcionális:
 
