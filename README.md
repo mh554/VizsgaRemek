@@ -15,6 +15,7 @@ Nov. 11.: Project neve, 10 mondatos leírás, Exel? látványterv, adatbázister
 
 [Infojegyzet oldala a vizsgáról](https://infojegyzet.hu/webszerkesztes/zarodolgozat/) <br>
 [Exel terv](https://blathy-my.sharepoint.com/:x:/g/personal/barta_marko_blathy_info/EVIGEpF27YpMotpUEDn05IUBRLOYAKuUG0YY1hPkIyic0A?e=vPkVbZ) <br>
+[Figma terv](https://www.figma.com/design/NypWkny8kwZDknhOojJnRZ/Figma-basics?node-id=601-9&node-type=canvas&t=W7o2lUSbeWyqjbbM-0) <br>
 
 ## Backend Terv
 
