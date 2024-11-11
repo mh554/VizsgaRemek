@@ -3,7 +3,7 @@
 Egy webalkalmazás vagy asztali alkalmazás fejlesztése.
 <br>
 <br>
-Nov. 11.: Project neve, 10 mondatos leírás, Exel? látványterv, adatbázisterv, csapattagok
+
 
 ## Project ötletek
 
