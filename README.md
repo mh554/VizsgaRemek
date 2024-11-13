@@ -1,4 +1,4 @@
-# VizsgaRemek
+![kép](https://github.com/user-attachments/assets/ac30fb76-8deb-4fae-84b3-50e168cf64c3)# VizsgaRemek
 
 Egy webalkalmazás vagy asztali alkalmazás fejlesztése.
 
@@ -14,6 +14,8 @@ Egy webalkalmazás vagy asztali alkalmazás fejlesztése.
 [Exel Látványterv](https://blathy-my.sharepoint.com/:x:/g/personal/barta_marko_blathy_info/EVIGEpF27YpMotpUEDn05IUBRLOYAKuUG0YY1hPkIyic0A?e=vPkVbZ) \
 [Exel Adatbázisterv](https://blathy-my.sharepoint.com/:x:/g/personal/barta_marko_blathy_info/EeGavHAoHUJJvYUyvUniF-gBSZbE7X8OPcETYAPTcOPgmw?e=fXzVZQ) \
 [Figma terv](https://www.figma.com/design/NypWkny8kwZDknhOojJnRZ/Figma-basics?node-id=601-9&node-type=canvas&t=W7o2lUSbeWyqjbbM-0) 
+![kép](https://github.com/user-attachments/assets/663212dc-8a98-4ebc-afc8-3b8b630cca59)
+
 
 ## Frontend
 
@@ -37,3 +39,5 @@ Egy webalkalmazás vagy asztali alkalmazás fejlesztése.
 ## Egyéb hasznos infók
 http://ujdomainek.hu/turkalo/ 
 ## Csapattagok nevei: Barta Márkó, Marádi Emil, Visnyei Máté 
+
+
