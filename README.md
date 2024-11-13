@@ -38,3 +38,4 @@ Egy webalkalmazás vagy asztali alkalmazás fejlesztése.
 [Discord](https://discord.gg/rEadVdhNAd)<br>
 <br>
 http://ujdomainek.hu/turkalo/ <br>
+## Csapattagok nevei: Barta Márkó, Marádi Emil, Visnyei Máté 
