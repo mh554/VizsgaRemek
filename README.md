@@ -13,8 +13,8 @@ Egy webalkalmazás vagy asztali alkalmazás fejlesztése.
 [Infojegyzet oldala a vizsgáról](https://infojegyzet.hu/webszerkesztes/zarodolgozat/) \
 [Exel Látványterv](https://blathy-my.sharepoint.com/:x:/g/personal/barta_marko_blathy_info/EVIGEpF27YpMotpUEDn05IUBRLOYAKuUG0YY1hPkIyic0A?e=vPkVbZ) \
 [Exel Adatbázisterv](https://blathy-my.sharepoint.com/:x:/g/personal/barta_marko_blathy_info/EeGavHAoHUJJvYUyvUniF-gBSZbE7X8OPcETYAPTcOPgmw?e=fXzVZQ) \
+[Adatbázis példa](https://cdn.nulab.com/learn-wp/app/uploads/2022/02/21193830/er-diagram-for-online-shopping.webp) \
 [Figma terv](https://www.figma.com/design/NypWkny8kwZDknhOojJnRZ/Figma-basics?node-id=601-9&node-type=canvas&t=W7o2lUSbeWyqjbbM-0) 
-![kép](https://github.com/user-attachments/assets/663212dc-8a98-4ebc-afc8-3b8b630cca59)
 
 
 ## Frontend
