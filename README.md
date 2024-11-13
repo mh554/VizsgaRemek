@@ -37,6 +37,5 @@ Egy webalkalmazás vagy asztali alkalmazás fejlesztése.
 - Python Flask keretrendszer
 
 ## Egyéb hasznos infók
-\
 http://ujdomainek.hu/turkalo/ 
 ## Csapattagok nevei: Barta Márkó, Marádi Emil, Visnyei Máté 
