@@ -10,11 +10,14 @@ Egy webalkalmazás vagy asztali alkalmazás fejlesztése.
 - **Közösségi oldal**: Például Facebook, Instagram, stb. (Nem ajánlott, mert ebbe a felhasználók hozzák létre a tartalmat)
 - **C# alkalmazás**: Nehéz
 
-[Infojegyzet oldala a vizsgáról](https://infojegyzet.hu/webszerkesztes/zarodolgozat/) \
-[Exel Látványterv](https://blathy-my.sharepoint.com/:x:/g/personal/barta_marko_blathy_info/EVIGEpF27YpMotpUEDn05IUBRLOYAKuUG0YY1hPkIyic0A?e=vPkVbZ) \
-[Exel Adatbázisterv](https://blathy-my.sharepoint.com/:x:/g/personal/barta_marko_blathy_info/EeGavHAoHUJJvYUyvUniF-gBSZbE7X8OPcETYAPTcOPgmw?e=fXzVZQ) \
-[Adatbázis példa](https://cdn.nulab.com/learn-wp/app/uploads/2022/02/21193830/er-diagram-for-online-shopping.webp) \
-[Figma terv](https://www.figma.com/design/NypWkny8kwZDknhOojJnRZ/Figma-basics?node-id=601-9&node-type=canvas&t=W7o2lUSbeWyqjbbM-0) 
+## Fontos Linkek
+
+- [Infojegyzet oldala a vizsgáról](https://infojegyzet.hu/webszerkesztes/zarodolgozat/) 
+- [Exel Látványterv](https://blathy-my.sharepoint.com/:x:/g/personal/barta_marko_blathy_info/EVIGEpF27YpMotpUEDn05IUBRLOYAKuUG0YY1hPkIyic0A?e=vPkVbZ) 
+- [Exel Adatbázisterv](https://blathy-my.sharepoint.com/:x:/g/personal/barta_marko_blathy_info/EeGavHAoHUJJvYUyvUniF-gBSZbE7X8OPcETYAPTcOPgmw?e=fXzVZQ) 
+- [Adatbázis példa](https://cdn.nulab.com/learn-wp/app/uploads/2022/02/21193830/er-diagram-for-online-shopping.webp) 
+- [Figma terv](https://www.figma.com/design/NypWkny8kwZDknhOojJnRZ/Figma-basics?node-id=601-9&node-type=canvas&t=W7o2lUSbeWyqjbbM-0) 
+- [Trello](https://trello.com/invite/b/6734870d13efc1e9a0181859/ATTIeb980d09c6ea9ceb2ca7d6fe993e23f51515B938/vizsgaprojekt) 
 
 
 
