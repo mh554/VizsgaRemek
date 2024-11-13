@@ -28,6 +28,7 @@ Egy webalkalmazás vagy asztali alkalmazás fejlesztése.
 - Dokumentáció, tesztek és annak a dokumentációja (fejlesztői és felhasználói dokumentáció)
 - RESTful architektúrának megfelelő szerver és kliens oldali komponenseket egyaránt tartalmaz.
 - (ORM) Object-Relational Mapping
+- ER-modell
 - Laravel PHP keretrendszer
 
 ### Opcionális:
