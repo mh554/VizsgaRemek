@@ -1,9 +1,8 @@
 # VizsgaRemek
 
 Egy webalkalmazás vagy asztali alkalmazás fejlesztése.
-<br>
-<br>
-
+\
+\
 
 ## Project ötletek
 
@@ -13,29 +12,31 @@ Egy webalkalmazás vagy asztali alkalmazás fejlesztése.
 - **Közösségi oldal**: Például Facebook, Instagram, stb. (Nem ajánlott, mert ebbe a felhasználók hozzák létre a tartalmat)
 - **C# alkalmazás**: Nehéz
 
-[Infojegyzet oldala a vizsgáról](https://infojegyzet.hu/webszerkesztes/zarodolgozat/) <br>
-[Exel Látványterv](https://blathy-my.sharepoint.com/:x:/g/personal/barta_marko_blathy_info/EVIGEpF27YpMotpUEDn05IUBRLOYAKuUG0YY1hPkIyic0A?e=vPkVbZ) <br>
-[Exel Adatbázisterv](https://blathy-my.sharepoint.com/:x:/g/personal/barta_marko_blathy_info/EeGavHAoHUJJvYUyvUniF-gBSZbE7X8OPcETYAPTcOPgmw?e=fXzVZQ) <br>
-[Figma terv](https://www.figma.com/design/NypWkny8kwZDknhOojJnRZ/Figma-basics?node-id=601-9&node-type=canvas&t=W7o2lUSbeWyqjbbM-0) <br>
+[Infojegyzet oldala a vizsgáról](https://infojegyzet.hu/webszerkesztes/zarodolgozat/) \
+[Exel Látványterv](https://blathy-my.sharepoint.com/:x:/g/personal/barta_marko_blathy_info/EVIGEpF27YpMotpUEDn05IUBRLOYAKuUG0YY1hPkIyic0A?e=vPkVbZ) \
+[Exel Adatbázisterv](https://blathy-my.sharepoint.com/:x:/g/personal/barta_marko_blathy_info/EeGavHAoHUJJvYUyvUniF-gBSZbE7X8OPcETYAPTcOPgmw?e=fXzVZQ) \
+[Figma terv](https://www.figma.com/design/NypWkny8kwZDknhOojJnRZ/Figma-basics?node-id=601-9&node-type=canvas&t=W7o2lUSbeWyqjbbM-0) \
 
+## Frontend
+
+- Vue Js
 
 ## Backend Terv
 
 - MySQL adatbázis (kapcsolt adatbázis táblákkal)
 - Dokumentáció, tesztek és annak a dokumentációja (fejlesztői és felhasználói dokumentáció)
 - RESTful architektúrának megfelelő szerver és kliens oldali komponenseket egyaránt tartalmaz.
-- Vue Js
+- (ORM) Object-Relational Mapping
+- Laravel PHP keretrendszer
 
 ### Opcionális:
 
 - PHP - MySQL kommunikáció, tartalom szolgáltatás
 - PHP REST API
-- Laravel PHP keretrendszer
 - Python Django keretrendszer
 - Python Flask keretrendszer
 
 ## Egyéb hasznos infók
-[Discord](https://discord.gg/rEadVdhNAd)<br>
-<br>
-http://ujdomainek.hu/turkalo/ <br>
+\
+http://ujdomainek.hu/turkalo/ \
 ## Csapattagok nevei: Barta Márkó, Marádi Emil, Visnyei Máté 
