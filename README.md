@@ -1,4 +1,4 @@
-![kép](https://github.com/user-attachments/assets/ac30fb76-8deb-4fae-84b3-50e168cf64c3)# VizsgaRemek
+#VizsgaRemek
 
 Egy webalkalmazás vagy asztali alkalmazás fejlesztése.
 
