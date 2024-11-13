@@ -15,7 +15,7 @@ Egy webalkalmazás vagy asztali alkalmazás fejlesztése.
 [Infojegyzet oldala a vizsgáról](https://infojegyzet.hu/webszerkesztes/zarodolgozat/) \
 [Exel Látványterv](https://blathy-my.sharepoint.com/:x:/g/personal/barta_marko_blathy_info/EVIGEpF27YpMotpUEDn05IUBRLOYAKuUG0YY1hPkIyic0A?e=vPkVbZ) \
 [Exel Adatbázisterv](https://blathy-my.sharepoint.com/:x:/g/personal/barta_marko_blathy_info/EeGavHAoHUJJvYUyvUniF-gBSZbE7X8OPcETYAPTcOPgmw?e=fXzVZQ) \
-[Figma terv](https://www.figma.com/design/NypWkny8kwZDknhOojJnRZ/Figma-basics?node-id=601-9&node-type=canvas&t=W7o2lUSbeWyqjbbM-0) \
+[Figma terv](https://www.figma.com/design/NypWkny8kwZDknhOojJnRZ/Figma-basics?node-id=601-9&node-type=canvas&t=W7o2lUSbeWyqjbbM-0) 
 
 ## Frontend
 
@@ -38,5 +38,5 @@ Egy webalkalmazás vagy asztali alkalmazás fejlesztése.
 
 ## Egyéb hasznos infók
 \
-http://ujdomainek.hu/turkalo/ \
+http://ujdomainek.hu/turkalo/ 
 ## Csapattagok nevei: Barta Márkó, Marádi Emil, Visnyei Máté 
