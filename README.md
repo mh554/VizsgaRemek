@@ -1,4 +1,4 @@
-#VizsgaRemek
+# VizsgaRemek
 
 Egy webalkalmazás vagy asztali alkalmazás fejlesztése.
 
@@ -15,6 +15,7 @@ Egy webalkalmazás vagy asztali alkalmazás fejlesztése.
 [Exel Adatbázisterv](https://blathy-my.sharepoint.com/:x:/g/personal/barta_marko_blathy_info/EeGavHAoHUJJvYUyvUniF-gBSZbE7X8OPcETYAPTcOPgmw?e=fXzVZQ) \
 [Adatbázis példa](https://cdn.nulab.com/learn-wp/app/uploads/2022/02/21193830/er-diagram-for-online-shopping.webp) \
 [Figma terv](https://www.figma.com/design/NypWkny8kwZDknhOojJnRZ/Figma-basics?node-id=601-9&node-type=canvas&t=W7o2lUSbeWyqjbbM-0) 
+
 
 
 ## Frontend
@@ -37,7 +38,10 @@ Egy webalkalmazás vagy asztali alkalmazás fejlesztése.
 - Python Flask keretrendszer
 
 ## Egyéb hasznos infók
-http://ujdomainek.hu/turkalo/ 
+http://ujdomainek.hu/turkalo/ \
+\
+Vs Bővitmények: \
+![Vs Bővitmények](https://github.com/user-attachments/assets/a9425fca-4aee-4b00-830a-c116aabbc0ae)
 ## Csapattagok nevei: Barta Márkó, Marádi Emil, Visnyei Máté 
 
 
